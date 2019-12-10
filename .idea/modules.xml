@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/glmall.iml" filepath="$PROJECT_DIR$/.idea/glmall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glmall-parent/glmall-parent.iml" filepath="$PROJECT_DIR$/glmall-parent/glmall-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glmall-user/glmall-user.iml" filepath="$PROJECT_DIR$/glmall-user/glmall-user.iml" />
     </modules>
   </component>
 </project>

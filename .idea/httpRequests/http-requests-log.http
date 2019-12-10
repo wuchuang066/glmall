@@ -1,0 +1,32 @@
+GET http://localhost:8080/receiveAddress/getReceiveAddressByMemberId?memberId=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-10T101739.200.json
+
+###
+
+GET http://localhost:8080/receiveAddress/getReceiveAddressByMemberId?memberId=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-10T093649.200.json
+
+###
+
+GET http://localhost:8080/receiveAddress/getReceiveAddressByMemberId?memberId=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-10T082616.200.json
+
+###
+
+GET http://localhost:8080/receiveAddress/getReceiveAddressByMemberId?memberId=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-10T082149.200.json
+
+###
+
