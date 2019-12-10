@@ -1,10 +1,13 @@
 package com.zpark.user.service.impl;
 
 import com.zpark.user.entity.UmsMember;
+import com.zpark.user.entity.UmsMemberReceiveAddress;
 import com.zpark.user.mapper.UmsMemberMapper;
+import com.zpark.user.mapper.UmsMemberReceiveAddressMapper;
 import com.zpark.user.service.UmsMemberService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import tk.mybatis.mapper.entity.Example;
 
 import java.util.List;
 
@@ -22,4 +25,6 @@ public class UmsMemberServiceImpl implements UmsMemberService {
     public List<UmsMember> quertAllUser() {
         return this.memberMapper.selectAll();
     }
+
+
 }
